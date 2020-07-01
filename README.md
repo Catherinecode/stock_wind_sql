@@ -1,1 +1,1 @@
-# stock_wind_sql
+从wind中下载数据，并存储到sql中
